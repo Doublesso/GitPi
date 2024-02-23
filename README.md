@@ -16,7 +16,7 @@
 ## General Information
 A simple Git server web UI app written in python using Flask, it was intended to be used on a raspberry pi but it should work on pretty much any linux machine.
 
-Allows you to have some basic control over your repositories inside your browser so you don't have to SSH into the server every time.
+Allows you to have someb basic control over your repositories inside your browser so you don't have to SSH into the server every time.
 
 ## Features
 
